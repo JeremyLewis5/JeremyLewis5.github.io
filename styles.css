@@ -15,8 +15,14 @@ h2 {
     color: lavender
 }
 
-p {
+.p1 {
     background-color: lawngreen;
+}
+
+.p2 {
+    color: white;
+    font-size: 20px;
+    background-color: violet;
 }
 
 img {
